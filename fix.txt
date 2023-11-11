@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.apache.curator</groupId
+	<artifactId>curator-recipes</artifactId
+	<version>5.5.0</version
+</dependency>
+```
